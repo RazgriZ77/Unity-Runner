@@ -1,6 +1,6 @@
 {
     "name": "com.harryb97.runner",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Runner",
     "description": "Centraliza el loop de juego y permite añadir clases al mismo sin necesidad de MonoBehaviour",
     "unity": "6000.0",
