@@ -1,0 +1,16 @@
+{
+    "name": "HarryB97.Tools.Runner.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:85c511b903257544ba65c07741f40b86"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
